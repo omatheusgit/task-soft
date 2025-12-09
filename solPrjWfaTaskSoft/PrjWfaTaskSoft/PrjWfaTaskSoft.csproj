@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D348D8A8-1326-427A-8517-5C9C75E6B0CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PrjWfaTaskSoft</RootNamespace>
+    <AssemblyName>PrjWfaTaskSoft</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSetDesenvolvimentoSetor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDesenvolvimentoSetor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetMetaJoin.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMetaJoin.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMensal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminMensal.Designer.cs">
+      <DependentUpon>frmAdminMensal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarGasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarGasto.Designer.cs">
+      <DependentUpon>frmAlterarGasto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarMeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarMeta.Designer.cs">
+      <DependentUpon>frmAlterarMeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarUsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarUsu.Designer.cs">
+      <DependentUpon>frmAlterarUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsBancoDados.cs" />
+    <Compile Include="frmChecarMetaIndi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChecarMetaIndi.Designer.cs">
+      <DependentUpon>frmChecarMetaIndi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarFun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarFun.Designer.cs">
+      <DependentUpon>frmConsultarFun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarMetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarMetas.Designer.cs">
+      <DependentUpon>frmConsultarMetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCriarMeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCriarMeta.Designer.cs">
+      <DependentUpon>frmCriarMeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCriarUsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCriarUsu.Designer.cs">
+      <DependentUpon>frmCriarUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarSenha.Designer.cs">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarUsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarUsu.Designer.cs">
+      <DependentUpon>frmConsultarUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGerenciaMensal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGerenciaMensal.Designer.cs">
+      <DependentUpon>frmGerenciaMensal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMetasIndividuais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMetasIndividuais.Designer.cs">
+      <DependentUpon>frmMetasIndividuais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioDesenvolvimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioDesenvolvimento.Designer.cs">
+      <DependentUpon>frmRelatorioDesenvolvimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioMetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioMetas.Designer.cs">
+      <DependentUpon>frmRelatorioMetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAdminMensal.resx">
+      <DependentUpon>frmAdminMensal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarGasto.resx">
+      <DependentUpon>frmAlterarGasto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarMeta.resx">
+      <DependentUpon>frmAlterarMeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarUsu.resx">
+      <DependentUpon>frmAlterarUsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChecarMetaIndi.resx">
+      <DependentUpon>frmChecarMetaIndi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarFun.resx">
+      <DependentUpon>frmConsultarFun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarMetas.resx">
+      <DependentUpon>frmConsultarMetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCriarMeta.resx">
+      <DependentUpon>frmCriarMeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCriarUsu.resx">
+      <DependentUpon>frmCriarUsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarSenha.resx">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarUsu.resx">
+      <DependentUpon>frmConsultarUsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGerenciaMensal.resx">
+      <DependentUpon>frmGerenciaMensal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.pt-BR.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMetasIndividuais.resx">
+      <DependentUpon>frmMetasIndividuais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioDesenvolvimento.resx">
+      <DependentUpon>frmRelatorioDesenvolvimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioMetas.resx">
+      <DependentUpon>frmRelatorioMetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <None Include="app.config" />
+    <None Include="DataSetDesenvolvimentoSetor.xsc">
+      <DependentUpon>DataSetDesenvolvimentoSetor.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetDesenvolvimentoSetor.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDesenvolvimentoSetor.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetDesenvolvimentoSetor.xss">
+      <DependentUpon>DataSetDesenvolvimentoSetor.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetMetaJoin.xsc">
+      <DependentUpon>DataSetMetaJoin.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetMetaJoin.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMetaJoin.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetMetaJoin.xss">
+      <DependentUpon>DataSetMetaJoin.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCC logo3 novo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCC logo3 novo2 BRANCO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCC logo3 novo11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrador5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gifSplash2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amici1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gifpronto.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mia khalifa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naoseila.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo VERDE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naosemmmm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brancooo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\branquin.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

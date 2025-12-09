@@ -1,0 +1,606 @@
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+D:\Etec_\Exercicios\DTCC\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+G:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciarUsu.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\SANTANA 1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\mscorlib.dll
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\mscorlib.resources.dll
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normidna.nlp
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfc.nlp
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfd.nlp
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfkc.nlp
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfkd.nlp
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+E:\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\11.04_Um Menu\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+F:\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+F:\1 MENU\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+F:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndi.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndi.resources
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+D:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmFolhaPagamento.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\mscorlib.dll
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\mscorlib.resources.dll
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normidna.nlp
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfc.nlp
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfd.nlp
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfkc.nlp
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfkd.nlp
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+K:\Etec_\Exercicios\DTCC\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+D:\pasta\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+C:\Users\Matheus\Desktop\TCC DEFINITIVO\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+L:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+C:\Users\Leonel D\Documents\compuleo\Documents\etec\id3\DTCC\CASO SE DER MERDA O TCC TA AQUI\kkk\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAdminMensal.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAdminMensal.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+K:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\mscorlib.dll
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\mscorlib.resources.dll
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normidna.nlp
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfc.nlp
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfd.nlp
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfkc.nlp
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\normnfkd.nlp
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAdminMensal.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+F:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+I:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+I:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+I:\NAOSEI\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAdminMensal.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+D:\Etec_\Exercicios\DTCC\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAdminMensal.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.cache
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\RdlCompile.compiled
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Matheus\Documents\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioDesenvolvimento.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.pdb
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.dll
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\MySql.Data.xml
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csprojResolveAssemblyReference.cache
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAdminMensal.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarGasto.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarMeta.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarUsu.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmChecarMetasIndi.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarFun.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarMetas.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarMeta.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmCriarUsu.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmAlterarSenha.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmConsultarUsu.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmGerenciaMensal.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmLogin.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMetasIndividuais.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioDesenvolvimento.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmRelatorioMetas.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmSplash.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.Properties.Resources.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.frmMenu.pt-BR.resources
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.csproj.GenerateResource.Cache
+E:\NAOSEI\com relatorio\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\pt-BR\PrjWfaTaskSoft.resources.dll
+C:\Users\Matheus\Pictures\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\bin\Debug\PrjWfaTaskSoft.exe.config
+C:\Users\Matheus\Pictures\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.exe
+C:\Users\Matheus\Pictures\TaskSoft - Mateus H. Leonel D, Matheus S. Leonardo\solPrjWfaTaskSoft\PrjWfaTaskSoft\obj\Debug\PrjWfaTaskSoft.pdb
